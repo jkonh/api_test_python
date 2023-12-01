@@ -1,0 +1,50 @@
+test_AudioScan_001:
+  casename: scan_audio
+  test_level: 1
+  test_step:
+    - scan_audio:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            scan_page: scan_finish_btn
+test_AudioRecovery_001:
+  casename: recovery_audio_all_source
+  test_level: 1
+  test_step:
+    - recovery_audio_all:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/audio && ls | wc -l"
+test_AudioRecovery_002:
+  casename: recovery_audio_qq_source
+  test_level: 1
+  test_step:
+    - recovery_audio_qq:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/audio && ls | wc -l"
+test_AudioRecovery_003:
+  casename: recovery_audio_line_source
+  test_level: 1
+  test_step:
+    - recovery_audio_line:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/audio && ls | wc -l"
+test_AudioRecovery_004:
+  casename: recovery_audio_viber_source
+  test_level: 1
+  test_step:
+    - recovery_audio_viber:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/audio && ls | wc -l"

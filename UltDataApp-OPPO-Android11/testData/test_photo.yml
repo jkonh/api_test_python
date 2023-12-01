@@ -1,0 +1,60 @@
+test_PhotoScan_001:
+  casename: scan_photo
+  test_level: 1
+  test_step:
+    - scan_photo:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            scan_page: scan_finish_btn
+test_PhotoRecovery_001:
+  casename: recovery_photo_Twitter_source
+  test_level: 1
+  test_step:
+    - recovery_photo_twitter:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/photo && ls | wc -l"
+test_PhotoRecovery_002:
+  casename: recovery_photo_album_source
+  test_level: 1
+  test_step:
+    - recovery_photo_album:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/photo && ls | wc -l"
+test_PhotoRecovery_003:
+  casename: recovery_photo_wab_source
+  test_level: 1
+  test_step:
+    - recovery_photo_wab:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/photo && ls | wc -l"
+test_PhotoRecovery_004:
+  casename: recovery_photo_wechat_source
+  test_level: 1
+  test_step:
+    - recovery_photo_wechat:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/photo && ls | wc -l"
+test_PhotoRecovery_005:
+  casename: recovery_photo_line_source
+  test_level: 1
+  test_step:
+    - recovery_photo_line:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/photo && ls | wc -l"

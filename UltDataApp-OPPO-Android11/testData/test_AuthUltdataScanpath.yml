@@ -1,0 +1,23 @@
+test_AuthUltdataScanpath_001:
+  casename: close_private
+  test_level: 1
+  test_step:
+    - dis_access_Auth_Ultdata:
+        test_assert:
+          type: assertExist
+          sleep: 5
+          element:
+            authScanPath_page: access_Auth_btn
+test_AuthUltdataScanpath_002:
+  casename: auth_ultdata_scan
+  test_level: 1
+  test_step:
+    - access_Auth_Ultdata:
+        test_assert:
+          type: assertExist
+          sleep: 5
+          element:
+            scan_page: scan_finish_btn
+#            authScanPath_page: scan_first_btn
+#            此处安卓13已修改为直接扫描，不能判断以前的扫描部分数据按钮
+

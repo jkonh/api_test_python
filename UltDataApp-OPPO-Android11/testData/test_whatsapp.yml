@@ -1,0 +1,50 @@
+test_whatsappScan_001:
+  casename: scan_whatsapp_attach
+  test_level: 1
+  test_step:
+    - Whatsapp_attachment_Scan:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            whatsapp_main_page: whatsapp_scan_state
+test_WhatsappRecovery_001:
+  casename: recovery_photo
+  test_level: 1
+  test_step:
+    - recovery_whatsapp_photo:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/WhatsApp/Photos && ls | wc -l"
+test_WhatsappRecovery_002:
+  casename: recovery_video
+  test_level: 1
+  test_step:
+    - recovery_whatsapp_video:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/WhatsApp/Videos && ls | wc -l"
+test_WhatsappRecovery_003:
+  casename: recovery_audio
+  test_level: 1
+  test_step:
+    - recovery_whatsapp_audio:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/WhatsApp/Audios && ls | wc -l"
+test_WhatsappRecovery_004:
+  casename: recovery_doc
+  test_level: 1
+  test_step:
+    - recovery_whatsapp_doc:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/WhatsApp/Documents && ls | wc -l"
