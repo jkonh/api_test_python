@@ -1,0 +1,602 @@
+authLicense_page:
+  license_agree:
+    type: id
+    value: com.tenorshare.recovery:id/policy_agree
+  license_cancel:
+    type: id
+    value: com.tenorshare.recovery:id/policy_cancel
+auth_page:
+  contact_allow:
+    type: id
+    value: com.android.permissioncontroller:id/permission_allow_button
+main_page:
+  version_dialog:
+    type: id
+    value: com.tenorshare.recovery:id/version_dialog_close
+  contact_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_contacts_btn
+  photo_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_photo_btn
+  video_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_video_btn
+  audio_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_audio_btn
+  doc_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_documents_btn
+  whatsapp_function_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_whatsapp_function_btn
+  feedback_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_feedback_btn
+  menu_btn:
+    type: id
+    value: com.tenorshare.recovery:id/main_menu_btn
+contact_page:
+  scaning_status:
+    type: class
+    value: android.widget.FrameLayout
+  scanComplete_btn:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_scan_finish_btn
+  back_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_back
+  scan_number:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_scan_count
+  menu_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_menu
+  select_all_btn:
+    type: id
+    value: com.tenorshare.recovery:id/ll_select_all
+  save_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_save
+  save_contacts_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_save_contacts
+  recover_success:
+    type: id
+    value: com.tenorshare.recovery:id/tv_recover_finish_title
+  recover_count:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_recover_count
+
+
+feedback_page:
+  feedback_email:
+    type: id
+    value: com.tenorshare.recovery:id/feedback_email_et
+  feedback_content:
+    type: id
+    value: com.tenorshare.recovery:id/feedback_content_et
+  feedback_submit:
+    type: id
+    value: com.tenorshare.recovery:id/feedback_submit_btn
+  feedback_success:
+    type: xpath
+    value: //*[contains(@text,'感谢您的反馈')]
+  feedback_email_error:
+    type: xpath
+    value: //*[contains(@text,'请输入正确的邮箱地址，谢谢')]
+  feedback_contain_null:
+    type: xpath
+    value: //*[contains(@text,'请输入反馈内容')]
+authScanPath_page:
+  close_private:
+    type: id
+    value: com.tenorshare.recovery:id/btn_private_statement_close
+  access_Auth_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_access_Auth
+  access_UltData_btn:
+    type: id
+    attribute: android:id/title
+    text: UltData
+  back_dataAuth_btn:
+    type: class
+    value: android.widget.ImageButton
+  scan_first_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_scan_first
+  saf_Auth_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_saf_Auth
+  use_data_path:
+    type: id
+    value: android:id/button1
+  allow_data_btn:
+    type: id
+    value: android:id/button1
+  all_allow_btn:
+    type: id
+    value: android:id/switch_widget
+scan_page:
+  scanning_btn:
+    type: id
+    value: com.tenorshare.recovery:id/tv_state
+  stop_scan_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_scan_control
+  scan_finish_btn:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_scan_finish_btn
+  back_btn:
+    type: id
+    value: com.tenorshare.recovery:id/photo_list_back_btn
+scan_finish_page:
+  confirm_back_btn:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_back_left_btn
+  cancel_back_btn:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_back_right_btn
+  export_photo_btn:
+    type: id
+    value: com.tenorshare.recovery:id/photo_list_export_btn
+  export_video_btn:
+    type: id
+    value: com.tenorshare.recovery:id/video_list_export_btn
+  export_audio_btn:
+    type: id
+    value: com.tenorshare.recovery:id/audio_list_export_btn
+  export_doc_btn:
+    type: id
+    value: com.tenorshare.recovery:id/doc_list_export_btn
+scan_photo_result_page:
+  photo_source_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_photo_source
+  photo_source_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_all
+  photo_filter_all_result:
+    type: id
+    value: com.tenorshare.recovery:id/item_image
+  photo_select_all:
+    type: id
+    value: com.tenorshare.recovery:id/photo_list_check
+  photo_source_thumbnail:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_thumbnail
+  photo_source_album:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_album
+  photo_source_whatsapp_business:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_whatsapp_business
+  photo_source_twitter:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_twitter
+  photo_source_facebook:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_facebook
+  photo_source_messenger:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_messenger
+  photo_source_instagram:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_instagram
+  photo_source_wechat:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_wechat
+  photo_source_qq:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_qq
+  photo_source_viber:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_viber
+  photo_source_line:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_line
+  photo_source_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_other
+  photo_time_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_photo_time
+  photo_time_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_all
+  photo_time_today:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_today
+  photo_time_yesterday:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_yesterday
+  photo_time_week:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_week
+  photo_time_month:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_month
+  photo_time_season:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_season
+  photo_time_half_year:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_half_year
+  photo_time_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_other
+  photo_size_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_photo_size
+  photo_size_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_all
+  photo_size_small:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_small
+  photo_size_medium:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_medium
+  photo_size_large:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_large
+  photo_size_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_other
+  photo_filter_null:
+    type: class
+    value: android.widget.LinearLayout
+photo_view_page:
+  enhance_setting_btn:
+    type: id
+    value: com.tenorshare.recovery:id/photo_preview_enhance_setting_btn
+  guide_close_btn:
+    type: id
+    value: com.tenorshare.recovery:id/guide_exit
+  setting_enhance:
+    type: id
+    value: com.tenorshare.recovery:id/enhance_setting_switch2
+  close_btn:
+    type: id
+    value: com.tenorshare.recovery:id/enhance_setting_close
+  back_btn:
+    type: id
+    value: com.tenorshare.recovery:id/photo_preview_back_btn
+scan_video_result_page:
+  video_source_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_video_source
+  video_time_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_video_time
+  video_size_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_video_size
+  video_source_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_all
+  video_select_all:
+    type: id
+    value: com.tenorshare.recovery:id/video_list_check
+  video_source_album:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_album
+  video_source_whatsapp_business:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_whatsapp_business
+  video_source_twitter:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_twitter
+  video_source_facebook:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_facebook
+  video_source_messenger:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_messenger
+  video_source_instagram:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_instagram
+  video_source_wechat:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_wechat
+  video_source_qq:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_qq
+  video_source_viber:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_viber
+  video_source_line:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_line
+  video_source_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_other
+  video_time_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_all
+  video_time_today:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_today
+  video_time_yesterday:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_yesterday
+  video_time_week:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_week
+  video_time_month:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_month
+  video_time_season:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_season
+  video_time_half_year:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_half_year
+  video_time_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_other
+  video_size_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_all
+  video_size_small:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_small
+  video_size_medium:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_medium
+  video_size_large:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_large
+  video_size_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_other
+scan_audio_result_page:
+  audio_source_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_audio_source
+  audio_source_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_all
+  audio_source_whatsapp_business:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_whatsapp_business
+  audio_source_wechat:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_wechat
+  audio_source_qq:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_qq
+  audio_source_viber:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_viber
+  audio_source_line:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_line
+  audio_source_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_source_other
+  audio_time_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_audio_time
+  audio_time_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_all
+  audio_time_today:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_today
+  audio_time_yesterday:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_yesterday
+  audio_time_week:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_week
+  audio_time_month:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_month
+  audio_time_season:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_season
+  audio_time_half_year:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_half_year
+  audio_time_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_other
+  audio_size_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_audio_size
+  audio_size_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_all
+  audio_size_small:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_small
+  audio_size_medium:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_medium
+  audio_size_large:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_large
+  audio_size_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_other
+  audio_select_all:
+    type: id
+    value: com.tenorshare.recovery:id/audio_list_check
+scan_doc_result_page:
+  doc_source_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_doc_source
+  doc_format_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_all
+  doc_format_doc:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_doc
+  doc_format_ppt:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_ppt
+  doc_format_xls:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_xls
+  doc_format_zip:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_zip
+  doc_format_rar:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_rar
+  doc_format_apk:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_apk
+  doc_format_txt:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_txt
+  doc_format_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_format_other
+  doc_time_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_doc_time
+  doc_time_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_all
+  doc_time_today:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_today
+  doc_time_yesterday:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_yesterday
+  doc_time_week:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_week
+  doc_time_month:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_month
+  doc_time_season:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_season
+  doc_time_half_year:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_half_year
+  doc_time_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_time_other
+  doc_size_btn:
+    type: id
+    value: com.tenorshare.recovery:id/iv_doc_size
+  doc_size_all:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_all
+  doc_size_small:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_small
+  doc_size_medium:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_medium
+  doc_size_large:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_large
+  doc_size_other:
+    type: id
+    value: com.tenorshare.recovery:id/rb_size_other
+  doc_select_all:
+    type: id
+    value: com.tenorshare.recovery:id/doc_list_check
+recovery_page:
+  recover_history_btn:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_recover_history_btn
+  recover_finish_btn:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_recover_finish_btn
+  recover_count:
+    type: id
+    value: com.tenorshare.recovery:id/dialog_recover_count
+  recover_close_dialog:
+    type: id
+    value: com.tenorshare.recovery:id/review_dialog_close
+whatsapp_main_page:
+  recovery_attach_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_recovery_attach
+  whatsapp_scan_state:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_scan_state_tv
+  whatsapp_photo_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_photo_btn
+  whatsapp_video_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_video_btn
+  whatsapp_audio_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_audio_btn
+  whatsapp_doc_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_doc_btn
+  back_main_btn:
+    type: id
+    value: com.tenorshare.recovery:id/btn_choose_back
+whatsapp_photo_page:
+  photo_select_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_photo_list_check
+  photo_export_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_photo_list_export_btn
+whatsapp_video_page:
+  video_select_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_video_list_check
+  video_export_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_video_list_export_btn
+whatsapp_audio_page:
+  audio_select_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_audio_list_check
+  audio_export_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_audio_list_export_btn
+whatsapp_doc_page:
+  doc_select_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_doc_list_check
+  doc_export_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_doc_list_export_btn
+whatsapp_scan_result_page:
+  back_whatsapp_main_btn:
+    type: id
+    value: com.tenorshare.recovery:id/whatsapp_back_btn
+menu_page:
+  menu_about_btn:
+    type: id
+    value: com.tenorshare.recovery:id/menu_about
+  menu_support_btn:
+    type: id
+    value: com.tenorshare.recovery:id/menu_support
+about_page:
+  visit_website_btn:
+    type: id
+    value: com.tenorshare.recovery:id/about_visit_website
+  policy_btn:
+    type: id
+    value: com.tenorshare.recovery:id/about_policy_text
+  license_btn:
+    type: id
+    value: com.tenorshare.recovery:id/about_license_text
+h5_page:
+  visit_website_h5:
+    type: xpath
+    value: /html/body/header/nav/div
+  policy_h5:
+    type: xpath
+    value: /html/body/header/nav/div
+  license_h5:
+    type: xpath
+    value: /html/body/header/nav/div/button/span
+  support_h5:
+    type: xpath
+    value: /html/body/header/nav/div/a/img

@@ -1,0 +1,30 @@
+test_feedback_001:
+  casename: submit_feedback_email_error
+  test_level: 1
+  test_step:
+    - feedback_email_error:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            feedback_page: feedback_email_error
+test_feedback_002:
+  casename: submit_feedback_contain_null
+  test_level: 1
+  test_step:
+    - feedback_contain_null:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            feedback_page: feedback_contain_null
+test_feedback_003:
+  casename: submit_feedback_success
+  test_level: 1
+  test_step:
+    - feedback_success:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            feedback_page: feedback_success

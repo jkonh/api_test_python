@@ -1,0 +1,80 @@
+test_DocumentScan_001:
+  casename: scan_document
+  test_level: 1
+  test_step:
+    - scan_document:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            scan_page: scan_finish_btn
+test_DocRecovery_001:
+  casename: recovery_format_doc
+  test_level: 1
+  test_step:
+    - recovery_Doc_doc:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/document && ls | wc -l"
+test_DocRecovery_002:
+  casename: recovery_format_ppt
+  test_level: 1
+  test_step:
+    - recovery_Doc_ppt:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/document && ls | wc -l"
+test_DocRecovery_003:
+  casename: recovery_format_xls
+  test_level: 1
+  test_step:
+    - recovery_Doc_xls:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/document && ls | wc -l"
+test_DocRecovery_004:
+  casename: recovery_format_zip
+  test_level: 1
+  test_step:
+    - recovery_Doc_zip:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/document && ls | wc -l"
+test_DocRecovery_005:
+  casename: recovery_format_rar
+  test_level: 1
+  test_step:
+    - recovery_Doc_rar:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/document && ls | wc -l"
+test_DocRecovery_006:
+  casename: recovery_format_apk
+  test_level: 1
+  test_step:
+    - recovery_Doc_apk:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/document && ls | wc -l"
+test_DocRecovery_007:
+  casename: recovery_format_txt
+  test_level: 1
+  test_step:
+    - recovery_Doc_txt:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/document && ls | wc -l"
