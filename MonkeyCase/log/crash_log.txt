@@ -1,0 +1,1092 @@
+Drop box contents: 140 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+
+========================================
+2023-10-08 15:42:44 system_server_wtf (contents lost)
+========================================
+2023-10-08 15:52:46 system_server_wtf (contents lost)
+========================================
+2023-10-08 16:11:49 system_server_wtf (contents lost)
+========================================
+2023-10-08 16:19:43 system_server_wtf (contents lost)
+========================================
+2023-10-08 16:52:43 system_server_wtf (contents lost)
+========================================
+2023-10-08 17:03:34 system_server_wtf (contents lost)
+========================================
+2023-10-08 17:22:46 system_server_wtf (contents lost)
+========================================
+2023-10-08 17:38:41 system_server_wtf (contents lost)
+========================================
+2023-10-08 17:38:45 system_server_wtf (contents lost)
+========================================
+2023-10-08 17:38:46 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:01:06 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:01:06 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:03:34 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:12:30 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:19:39 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:19:39 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:19:39 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:19:39 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:19:40 event_log (contents lost)
+========================================
+2023-10-08 18:19:58 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:22:36 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:22:36 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:22:36 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:22:36 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:22:37 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:22:37 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:38:47 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:38:47 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:38:47 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:38:47 system_server_wtf (contents lost)
+========================================
+2023-10-08 18:57:22 system_server_wtf (contents lost)
+========================================
+2023-10-08 19:01:50 system_server_wtf (contents lost)
+========================================
+2023-10-08 19:01:57 system_server_wtf (contents lost)
+========================================
+2023-10-08 19:02:20 system_server_wtf (contents lost)
+========================================
+2023-10-08 19:36:46 system_server_wtf (contents lost)
+========================================
+2023-10-08 22:00:18 system_server_wtf (contents lost)
+========================================
+2023-10-08 22:33:25 system_server_wtf (contents lost)
+========================================
+2023-10-08 22:42:26 system_server_wtf (contents lost)
+========================================
+2023-10-09 01:40:54 event_log (contents lost)
+========================================
+2023-10-09 03:12:05 system_server_wtf (contents lost)
+========================================
+2023-10-09 03:48:22 system_server_wtf (contents lost)
+========================================
+2023-10-09 06:55:31 system_server_wtf (contents lost)
+========================================
+2023-10-09 08:48:55 system_server_wtf (contents lost)
+========================================
+2023-10-09 08:48:55 system_server_wtf (contents lost)
+========================================
+2023-10-09 08:48:55 system_server_wtf (contents lost)
+========================================
+2023-10-09 08:48:57 system_server_wtf (contents lost)
+========================================
+2023-10-09 08:48:57 system_server_wtf (contents lost)
+========================================
+2023-10-09 09:44:28 system_server_wtf (contents lost)
+========================================
+2023-10-09 10:55:14 system_server_wtf (contents lost)
+========================================
+2023-10-09 10:55:14 system_server_wtf (contents lost)
+========================================
+2023-10-09 10:56:08 system_server_wtf (contents lost)
+========================================
+2023-10-09 10:56:08 system_server_wtf (contents lost)
+========================================
+2023-10-09 11:39:32 system_server_wtf (contents lost)
+========================================
+2023-10-09 12:06:31 system_server_wtf (contents lost)
+========================================
+2023-10-09 12:09:39 system_server_wtf (contents lost)
+========================================
+2023-10-09 12:18:34 system_server_wtf (contents lost)
+========================================
+2023-10-09 12:52:59 system_server_wtf (contents lost)
+========================================
+2023-10-09 13:17:09 system_server_wtf (contents lost)
+========================================
+2023-10-09 13:52:12 system_server_wtf (contents lost)
+========================================
+2023-10-09 14:53:12 system_server_wtf (contents lost)
+========================================
+2023-10-09 15:02:18 system_server_wtf (contents lost)
+========================================
+2023-10-09 15:51:22 system_server_wtf (contents lost)
+========================================
+2023-10-09 15:51:23 system_server_wtf (contents lost)
+========================================
+2023-10-09 15:51:23 system_server_wtf (contents lost)
+========================================
+2023-10-09 15:51:27 system_server_wtf (contents lost)
+========================================
+2023-10-09 16:21:18 system_server_wtf (contents lost)
+========================================
+2023-10-09 16:23:11 system_server_wtf (contents lost)
+========================================
+2023-10-09 16:26:19 system_server_wtf (contents lost)
+========================================
+2023-10-09 16:47:54 system_server_wtf (contents lost)
+========================================
+2023-10-09 17:26:25 system_server_wtf (contents lost)
+========================================
+2023-10-09 17:31:47 system_server_wtf (contents lost)
+========================================
+2023-10-09 21:27:15 system_server_wtf (contents lost)
+========================================
+2023-10-09 22:14:53 system_server_wtf (contents lost)
+========================================
+2023-10-09 22:19:20 system_server_wtf (contents lost)
+========================================
+2023-10-09 22:38:15 system_server_wtf (contents lost)
+========================================
+2023-10-09 23:26:32 system_server_wtf (contents lost)
+========================================
+2023-10-09 23:44:06 system_server_wtf (contents lost)
+========================================
+2023-10-10 05:52:51 system_server_wtf (contents lost)
+========================================
+2023-10-10 06:20:11 system_server_wtf (contents lost)
+========================================
+2023-10-10 06:24:15 system_server_wtf (contents lost)
+========================================
+2023-10-10 06:30:17 system_server_wtf (contents lost)
+========================================
+2023-10-10 07:34:37 system_server_wtf (contents lost)
+========================================
+2023-10-10 07:40:29 system_server_wtf (contents lost)
+========================================
+2023-10-10 10:20:47 system_server_wtf (contents lost)
+========================================
+2023-10-10 10:55:11 system_server_wtf (contents lost)
+========================================
+2023-10-10 10:55:12 system_server_wtf (contents lost)
+========================================
+2023-10-10 10:55:12 system_server_wtf (contents lost)
+========================================
+2023-10-10 10:55:38 system_server_wtf (contents lost)
+========================================
+2023-10-10 11:04:59 system_server_wtf (contents lost)
+========================================
+2023-10-10 11:05:38 system_server_wtf (contents lost)
+========================================
+2023-10-10 11:33:23 system_server_wtf (contents lost)
+========================================
+2023-10-10 12:20:37 system_server_wtf (contents lost)
+========================================
+2023-10-10 12:30:51 system_server_wtf (contents lost)
+========================================
+2023-10-10 12:43:37 system_server_wtf (contents lost)
+========================================
+2023-10-10 13:28:58 system_server_wtf (contents lost)
+========================================
+2023-10-10 13:39:33 system_server_wtf (contents lost)
+========================================
+2023-10-10 15:23:17 system_server_wtf (contents lost)
+========================================
+2023-10-10 15:50:29 system_server_wtf (contents lost)
+========================================
+2023-10-10 16:07:16 system_server_wtf (contents lost)
+========================================
+2023-10-10 16:07:16 system_server_wtf (contents lost)
+========================================
+2023-10-10 16:07:16 system_server_wtf (contents lost)
+========================================
+2023-10-10 16:07:16 system_server_wtf (contents lost)
+========================================
+2023-10-10 19:41:40 system_server_wtf (contents lost)
+========================================
+2023-10-10 20:01:42 data_app_crash (text, 1190 bytes)
+Process: io.appium.uiautomator2.server
+PID: 20944
+UID: 11698
+Frozen: false
+Flags: 0x3088be46
+Package: io.appium.uiautomator2.server v31 (3.5.1)
+Foreground: No
+Process-Runtime: 107937663
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Loading-Progress: 1.0
+Dropped-Count: 0
+
+java.lang.RuntimeException: Error while disconnecting UiAutomation@ef9a9c5[id=-1, flags=0]
+	at android.app.UiAutomation.disconnect(UiAutomation.java:397)
+	at android.app.Instrumentation.finish(Instrumentation.java:267)
+	at androidx.test.runner.MonitoringInstrumentation.finish(MonitoringInstrumentation.java:358)
+	at androidx.test.runner.AndroidJUnitRunner.finish(AndroidJUnitRunner.java:408)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:397)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2335)
+Caused by: android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(BinderProxy.java:662)
+	at android.app.IUiAutomationConnection$Stub$Proxy.disconnect(IUiAutomationConnection.java:455)
+	at android.app.UiAutomation.disconnect(UiAutomation.java:395)
+	... 5 more
+
+========================================
+2023-10-10 20:13:24 data_app_crash (text, 1190 bytes)
+Process: io.appium.uiautomator2.server
+PID: 10022
+UID: 11698
+Frozen: false
+Flags: 0x3088be46
+Package: io.appium.uiautomator2.server v31 (3.5.1)
+Foreground: No
+Process-Runtime: 108105634
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Loading-Progress: 1.0
+Dropped-Count: 0
+
+java.lang.RuntimeException: Error while disconnecting UiAutomation@80040cd[id=-1, flags=0]
+	at android.app.UiAutomation.disconnect(UiAutomation.java:397)
+	at android.app.Instrumentation.finish(Instrumentation.java:267)
+	at androidx.test.runner.MonitoringInstrumentation.finish(MonitoringInstrumentation.java:358)
+	at androidx.test.runner.AndroidJUnitRunner.finish(AndroidJUnitRunner.java:408)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:397)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2335)
+Caused by: android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(BinderProxy.java:662)
+	at android.app.IUiAutomationConnection$Stub$Proxy.disconnect(IUiAutomationConnection.java:455)
+	at android.app.UiAutomation.disconnect(UiAutomation.java:395)
+	... 5 more
+
+========================================
+2023-10-10 20:25:59 data_app_crash (text, 1190 bytes)
+Process: io.appium.uiautomator2.server
+PID: 29871
+UID: 11698
+Frozen: false
+Flags: 0x3088be46
+Package: io.appium.uiautomator2.server v31 (3.5.1)
+Foreground: No
+Process-Runtime: 108157684
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Loading-Progress: 1.0
+Dropped-Count: 0
+
+java.lang.RuntimeException: Error while disconnecting UiAutomation@286b9cd[id=-1, flags=0]
+	at android.app.UiAutomation.disconnect(UiAutomation.java:397)
+	at android.app.Instrumentation.finish(Instrumentation.java:267)
+	at androidx.test.runner.MonitoringInstrumentation.finish(MonitoringInstrumentation.java:358)
+	at androidx.test.runner.AndroidJUnitRunner.finish(AndroidJUnitRunner.java:408)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:397)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2335)
+Caused by: android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(BinderProxy.java:662)
+	at android.app.IUiAutomationConnection$Stub$Proxy.disconnect(IUiAutomationConnection.java:455)
+	at android.app.UiAutomation.disconnect(UiAutomation.java:395)
+	... 5 more
+
+========================================
+2023-10-11 06:34:16 system_server_wtf (text, 1305 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.pushservice.action.CONNECTIVITY_CHANGE from system 3520:com.samsung.android.pushservice/1000 pkg com.samsung.android.pushservice
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2728)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3135)
+	at android.os.Binder.execTransactInternal(Binder.java:1316)
+	at android.os.Binder.execTransact(Binder.java:1280)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 7 more
+
+========================================
+2023-10-11 08:47:16 data_app_crash (text, 1189 bytes)
+Process: io.appium.uiautomator2.server
+PID: 20295
+UID: 11698
+Frozen: false
+Flags: 0x3088be46
+Package: io.appium.uiautomator2.server v31 (3.5.1)
+Foreground: No
+Process-Runtime: 150073074
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Loading-Progress: 1.0
+Dropped-Count: 0
+
+java.lang.RuntimeException: Error while disconnecting UiAutomation@952909[id=-1, flags=0]
+	at android.app.UiAutomation.disconnect(UiAutomation.java:397)
+	at android.app.Instrumentation.finish(Instrumentation.java:267)
+	at androidx.test.runner.MonitoringInstrumentation.finish(MonitoringInstrumentation.java:358)
+	at androidx.test.runner.AndroidJUnitRunner.finish(AndroidJUnitRunner.java:408)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:397)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2335)
+Caused by: android.os.DeadObjectException
+	at android.os.BinderProxy.transactNative(Native Method)
+	at android.os.BinderProxy.transact(BinderProxy.java:662)
+	at android.app.IUiAutomationConnection$Stub$Proxy.disconnect(IUiAutomationConnection.java:455)
+	at android.app.UiAutomation.disconnect(UiAutomation.java:395)
+	... 5 more
+
+========================================
+2023-10-11 08:48:45 system_server_wtf (text, 980 bytes)
+Process: system_server
+Subject: SyncManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: SYNC_OP_STATE_INVALID: disallowed by settings/network
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Slog.wtf(Slog.java:304)
+	at com.android.server.content.SyncManager$SyncHandler.logAccountError(SyncManager.java:3549)
+	at com.android.server.content.SyncManager$SyncHandler.computeSyncOpState(SyncManager.java:3541)
+	at com.android.server.content.SyncManager$SyncHandler.startSyncH(SyncManager.java:3251)
+	at com.android.server.content.SyncManager$SyncHandler.handleSyncMessage(SyncManager.java:2996)
+	at com.android.server.content.SyncManager$SyncHandler.handleMessage(SyncManager.java:2968)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+========================================
+2023-10-11 08:48:45 system_server_wtf (text, 962 bytes)
+Process: system_server
+Subject: SyncManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: SYNC_OP_STATE_INVALID: NOT_SYNCABLE
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Slog.wtf(Slog.java:304)
+	at com.android.server.content.SyncManager$SyncHandler.logAccountError(SyncManager.java:3549)
+	at com.android.server.content.SyncManager$SyncHandler.computeSyncOpState(SyncManager.java:3522)
+	at com.android.server.content.SyncManager$SyncHandler.startSyncH(SyncManager.java:3251)
+	at com.android.server.content.SyncManager$SyncHandler.handleSyncMessage(SyncManager.java:2996)
+	at com.android.server.content.SyncManager$SyncHandler.handleMessage(SyncManager.java:2968)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+========================================
+2023-10-11 08:48:45 system_server_wtf (text, 980 bytes)
+Process: system_server
+Subject: SyncManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: SYNC_OP_STATE_INVALID: disallowed by settings/network
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Slog.wtf(Slog.java:304)
+	at com.android.server.content.SyncManager$SyncHandler.logAccountError(SyncManager.java:3549)
+	at com.android.server.content.SyncManager$SyncHandler.computeSyncOpState(SyncManager.java:3541)
+	at com.android.server.content.SyncManager$SyncHandler.startSyncH(SyncManager.java:3251)
+	at com.android.server.content.SyncManager$SyncHandler.handleSyncMessage(SyncManager.java:2996)
+	at com.android.server.content.SyncManager$SyncHandler.handleMessage(SyncManager.java:2968)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+========================================
+2023-10-11 08:48:45 system_server_wtf (text, 962 bytes)
+Process: system_server
+Subject: SyncManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: SYNC_OP_STATE_INVALID: NOT_SYNCABLE
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Slog.wtf(Slog.java:304)
+	at com.android.server.content.SyncManager$SyncHandler.logAccountError(SyncManager.java:3549)
+	at com.android.server.content.SyncManager$SyncHandler.computeSyncOpState(SyncManager.java:3522)
+	at com.android.server.content.SyncManager$SyncHandler.startSyncH(SyncManager.java:3251)
+	at com.android.server.content.SyncManager$SyncHandler.handleSyncMessage(SyncManager.java:2996)
+	at com.android.server.content.SyncManager$SyncHandler.handleMessage(SyncManager.java:2968)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+========================================
+2023-10-11 08:48:45 system_server_wtf (text, 980 bytes)
+Process: system_server
+Subject: SyncManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: SYNC_OP_STATE_INVALID: disallowed by settings/network
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Slog.wtf(Slog.java:304)
+	at com.android.server.content.SyncManager$SyncHandler.logAccountError(SyncManager.java:3549)
+	at com.android.server.content.SyncManager$SyncHandler.computeSyncOpState(SyncManager.java:3541)
+	at com.android.server.content.SyncManager$SyncHandler.startSyncH(SyncManager.java:3251)
+	at com.android.server.content.SyncManager$SyncHandler.handleSyncMessage(SyncManager.java:2996)
+	at com.android.server.content.SyncManager$SyncHandler.handleMessage(SyncManager.java:2968)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+========================================
+2023-10-11 10:49:49 system_server_wtf (text, 1348 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Background started FGS: Allowed [callingPackage: com.facebook.orca; callingUid: 10785; uidState: TRNB; intent: Intent { act=com.facebook.orca.chatheads.ACTION_CLEAR_ALL_UNSEEN_THREADS cmp=com.facebook.orca/com.facebook.messaging.chatheads.service.ChatHeadService (has extras) }; code:ACTIVITY_VISIBILITY_GRACE_PERIOD; tempAllowListReason:<null>; targetSdkVersion:34; callerTargetSdkVersion:34; startForegroundCount:0; bindFromPackage:null]
+	at android.util.Log.wtfQuiet(Log.java:452)
+	at android.util.Slog.wtfQuiet(Slog.java:318)
+	at com.android.server.am.ActiveServices.logFgsBackgroundStart(ActiveServices.java:7267)
+	at com.android.server.am.ActiveServices.startServiceLocked(ActiveServices.java:830)
+	at com.android.server.am.ActiveServices.startServiceLocked(ActiveServices.java:750)
+	at com.android.server.am.ActivityManagerService.startService(ActivityManagerService.java:14915)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2884)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3135)
+	at android.os.Binder.execTransactInternal(Binder.java:1316)
+	at android.os.Binder.execTransact(Binder.java:1280)
+
+========================================
+2023-10-11 10:51:53 system_server_wtf (text, 1346 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Background started FGS: Allowed [callingPackage: com.facebook.orca; callingUid: 10785; uidState: SVC ; intent: Intent { act=com.facebook.orca.chatheads.ACTION_NEW_MESSAGE_NOTIFICATION cmp=com.facebook.orca/com.facebook.messaging.chatheads.service.ChatHeadService (has extras) }; code:SYSTEM_ALERT_WINDOW_PERMISSION; tempAllowListReason:<null>; targetSdkVersion:34; callerTargetSdkVersion:34; startForegroundCount:0; bindFromPackage:null]
+	at android.util.Log.wtfQuiet(Log.java:452)
+	at android.util.Slog.wtfQuiet(Slog.java:318)
+	at com.android.server.am.ActiveServices.logFgsBackgroundStart(ActiveServices.java:7267)
+	at com.android.server.am.ActiveServices.startServiceLocked(ActiveServices.java:830)
+	at com.android.server.am.ActiveServices.startServiceLocked(ActiveServices.java:750)
+	at com.android.server.am.ActivityManagerService.startService(ActivityManagerService.java:14915)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2884)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3135)
+	at android.os.Binder.execTransactInternal(Binder.java:1321)
+	at android.os.Binder.execTransact(Binder.java:1280)
+
+========================================
+2023-10-11 10:54:33 system_server_wtf (text, 1685 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.sec.media.action.AUDIOCORE_LOGGING from system uid 1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at com.android.server.alarm.AlarmManagerService$DeliveryTracker.deliverLocked(AlarmManagerService.java:6377)
+	at com.android.server.alarm.AlarmManagerService.deliverAlarmsLocked(AlarmManagerService.java:5218)
+	at com.android.server.alarm.AlarmManagerService$AlarmThread.run(AlarmManagerService.java:5573)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 11 more
+
+========================================
+2023-10-11 10:55:21 system_server_wtf (text, 1683 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.sec.media.action.VIBRTOR_LOGGING from system uid 1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at com.android.server.alarm.AlarmManagerService$DeliveryTracker.deliverLocked(AlarmManagerService.java:6377)
+	at com.android.server.alarm.AlarmManagerService.deliverAlarmsLocked(AlarmManagerService.java:5218)
+	at com.android.server.alarm.AlarmManagerService$AlarmThread.run(AlarmManagerService.java:5573)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 11 more
+
+========================================
+2023-10-11 10:55:22 system_server_wtf (text, 1305 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.service.svcagent.intent_action_last_command from system 30532:com.samsung.android.svcagent/1000 pkg com.samsung.android.svcagent
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16759)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2728)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3135)
+	at android.os.Binder.execTransactInternal(Binder.java:1316)
+	at android.os.Binder.execTransact(Binder.java:1280)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 7 more
+
+========================================
+2023-10-11 10:55:22 system_server_wtf (text, 1305 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.service.svcagent.intent_action_last_command from system 30532:com.samsung.android.svcagent/1000 pkg com.samsung.android.svcagent
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2728)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3135)
+	at android.os.Binder.execTransactInternal(Binder.java:1316)
+	at android.os.Binder.execTransact(Binder.java:1280)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 7 more
+
+========================================
+2023-10-11 11:34:45 system_server_wtf (text, 1426 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SHOW_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16759)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 11:34:45 system_server_wtf (text, 1426 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SHOW_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 11:34:46 system_server_wtf (text, 1437 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SELECT_IME_FROM_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16759)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 11:34:46 system_server_wtf (text, 1437 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SELECT_IME_FROM_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 11:35:19 system_server_wtf (text, 1531 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.server.wifi.softap.smarttethering.updateautohotspot from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16759)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcast(ContextImpl.java:1256)
+	at com.samsung.android.server.wifi.ap.smarttethering.SemWifiApSmartClient.sendScanResultFromScanner(SemWifiApSmartClient.java:347)
+	at com.samsung.android.server.wifi.ap.smarttethering.SemWifiApSmartBleScanner$BleWorkHandler.handleMessage(SemWifiApSmartBleScanner.java:1231)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 10 more
+
+========================================
+2023-10-11 11:35:19 system_server_wtf (text, 1531 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.server.wifi.softap.smarttethering.updateautohotspot from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcast(ContextImpl.java:1256)
+	at com.samsung.android.server.wifi.ap.smarttethering.SemWifiApSmartClient.sendScanResultFromScanner(SemWifiApSmartClient.java:347)
+	at com.samsung.android.server.wifi.ap.smarttethering.SemWifiApSmartBleScanner$BleWorkHandler.handleMessage(SemWifiApSmartBleScanner.java:1231)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 10 more
+
+========================================
+2023-10-11 12:12:51 system_server_wtf (text, 2671 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 4
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.wifi.NETWORK_LOCATION from system uid 1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at android.app.PendingIntent.send(PendingIntent.java:908)
+	at com.samsung.android.location.currentloc.SCurrentReceiverManager$h.m(Unknown Source:76)
+	at com.samsung.android.location.currentloc.SCurrentReceiverManager$h.t(Unknown Source:341)
+	at com.samsung.android.location.currentloc.SCurrentReceiverManager.b0(Unknown Source:116)
+	at com.samsung.android.location.currentloc.SCurrentReceiverManager.a0(Unknown Source:38)
+	at com.samsung.android.location.currentloc.i.s(Unknown Source:40)
+	at com.samsung.android.location.currentloc.h.onLocationChanged(Unknown Source:2)
+	at com.samsung.android.location.lib.positioning.PositionManager.u(Unknown Source:16)
+	at com.samsung.android.location.lib.positioning.PositionManager.c(Unknown Source:0)
+	at p0.e.run(Unknown Source:6)
+	at android.os.Handler.handleCallback(Handler.java:942)
+	at android.os.Handler.dispatchMessage(Handler.java:99)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at com.samsung.android.location.SLocationService.K(Unknown Source:30)
+	at com.samsung.android.location.SLocationService.Z(Unknown Source:5)
+	at com.samsung.android.location.SLocationService.E(Unknown Source:0)
+	at com.samsung.android.location.t.run(Unknown Source:2)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 27 more
+
+========================================
+2023-10-11 12:20:38 system_server_wtf (text, 1720 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast AlarmTaskSchedule.com.samsung.android.pushservice from system uid 1000 pkg com.samsung.android.pushservice
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at com.android.server.alarm.AlarmManagerService$DeliveryTracker.deliverLocked(AlarmManagerService.java:6377)
+	at com.android.server.alarm.AlarmManagerService.deliverAlarmsLocked(AlarmManagerService.java:5218)
+	at com.android.server.alarm.AlarmManagerService$AlarmThread.run(AlarmManagerService.java:5573)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 11 more
+
+========================================
+2023-10-11 12:29:00 system_server_wtf (text, 1720 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast AlarmTaskSchedule.com.samsung.android.pushservice from system uid 1000 pkg com.samsung.android.pushservice
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at com.android.server.alarm.AlarmManagerService$DeliveryTracker.deliverLocked(AlarmManagerService.java:6377)
+	at com.android.server.alarm.AlarmManagerService.deliverAlarmsLocked(AlarmManagerService.java:5218)
+	at com.android.server.alarm.AlarmManagerService$AlarmThread.run(AlarmManagerService.java:5573)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 11 more
+
+========================================
+2023-10-11 12:34:01 system_server_wtf (text, 1720 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast AlarmTaskSchedule.com.samsung.android.pushservice from system uid 1000 pkg com.samsung.android.pushservice
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at com.android.server.alarm.AlarmManagerService$DeliveryTracker.deliverLocked(AlarmManagerService.java:6377)
+	at com.android.server.alarm.AlarmManagerService.deliverAlarmsLocked(AlarmManagerService.java:5218)
+	at com.android.server.alarm.AlarmManagerService$AlarmThread.run(AlarmManagerService.java:5573)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 11 more
+
+========================================
+2023-10-11 12:43:19 system_server_wtf (text, 1720 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast AlarmTaskSchedule.com.samsung.android.pushservice from system uid 1000 pkg com.samsung.android.pushservice
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at com.android.server.alarm.AlarmManagerService$DeliveryTracker.deliverLocked(AlarmManagerService.java:6377)
+	at com.android.server.alarm.AlarmManagerService.deliverAlarmsLocked(AlarmManagerService.java:5218)
+	at com.android.server.alarm.AlarmManagerService$AlarmThread.run(AlarmManagerService.java:5573)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 11 more
+
+========================================
+2023-10-11 12:53:38 system_server_wtf (text, 1055 bytes)
+Process: system_server
+Subject: ContentProviderHelper
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: ProcessRecord{26d8898 27488:com.samsung.android.scloud/5009} was killed by AM but isn't really dead
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Slog.wtf(Slog.java:304)
+	at com.android.server.am.ContentProviderHelper.getContentProviderImpl(ContentProviderHelper.java:257)
+	at com.android.server.am.ContentProviderHelper.getContentProviderImpl(ContentProviderHelper.java:169)
+	at com.android.server.am.ContentProviderHelper.getContentProvider(ContentProviderHelper.java:143)
+	at com.android.server.am.ActivityManagerService.getContentProvider(ActivityManagerService.java:8262)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2827)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3135)
+	at android.os.Binder.execTransactInternal(Binder.java:1316)
+	at android.os.Binder.execTransact(Binder.java:1280)
+
+========================================
+2023-10-11 12:54:23 system_server_wtf (text, 1720 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast AlarmTaskSchedule.com.samsung.android.pushservice from system uid 1000 pkg com.samsung.android.pushservice
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16076)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentInPackage(ActivityManagerService.java:17113)
+	at com.android.server.am.ActivityManagerService$LocalService.broadcastIntentInPackage(ActivityManagerService.java:19859)
+	at com.android.server.am.PendingIntentRecord.sendInner(PendingIntentRecord.java:642)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6608)
+	at com.android.server.am.ActivityManagerService.sendIntentSender(ActivityManagerService.java:6597)
+	at android.app.PendingIntent.sendAndReturnResult(PendingIntent.java:1029)
+	at android.app.PendingIntent.send(PendingIntent.java:1000)
+	at com.android.server.alarm.AlarmManagerService$DeliveryTracker.deliverLocked(AlarmManagerService.java:6377)
+	at com.android.server.alarm.AlarmManagerService.deliverAlarmsLocked(AlarmManagerService.java:5218)
+	at com.android.server.alarm.AlarmManagerService$AlarmThread.run(AlarmManagerService.java:5573)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16077)
+	... 11 more
+
+========================================
+2023-10-11 13:00:23 system_server_wtf (text, 1305 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.pushservice.action.CONNECTIVITY_CHANGE from system 8971:com.samsung.android.pushservice/1000 pkg com.samsung.android.pushservice
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2728)
+	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:3135)
+	at android.os.Binder.execTransactInternal(Binder.java:1316)
+	at android.os.Binder.execTransact(Binder.java:1280)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 7 more
+
+========================================
+2023-10-11 14:45:23 system_server_wtf (text, 980 bytes)
+Process: system_server
+Subject: SyncManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: SYNC_OP_STATE_INVALID: disallowed by settings/network
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Slog.wtf(Slog.java:304)
+	at com.android.server.content.SyncManager$SyncHandler.logAccountError(SyncManager.java:3549)
+	at com.android.server.content.SyncManager$SyncHandler.computeSyncOpState(SyncManager.java:3541)
+	at com.android.server.content.SyncManager$SyncHandler.startSyncH(SyncManager.java:3251)
+	at com.android.server.content.SyncManager$SyncHandler.handleSyncMessage(SyncManager.java:2996)
+	at com.android.server.content.SyncManager$SyncHandler.handleMessage(SyncManager.java:2968)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:226)
+	at android.os.Looper.loop(Looper.java:313)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+========================================
+2023-10-11 15:07:47 system_server_wtf (text, 1426 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SHOW_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16759)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 15:07:47 system_server_wtf (text, 1426 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SHOW_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 15:07:47 system_server_wtf (text, 1437 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SELECT_IME_FROM_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16759)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 15:07:47 system_server_wtf (text, 1437 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SELECT_IME_FROM_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 15:08:53 system_server_wtf (text, 1426 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SHOW_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16759)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+
+========================================
+2023-10-11 15:08:53 system_server_wtf (text, 1426 bytes)
+Process: system_server
+Subject: ActivityManager
+Build: samsung/r0qzcx/r0q:13/TP1A.220624.014/S9010ZCU4CWH1:user/release-keys
+Dropped-Count: 0
+
+android.util.Log$TerribleFailure: Sending non-protected broadcast com.samsung.android.intent.action.SHOW_IME_SWITCHER from system 2235:system/1000 pkg android
+	at android.util.Log.wtf(Log.java:442)
+	at android.util.Log.wtf(Log.java:428)
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16072)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16890)
+	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:16092)
+	at com.android.server.am.ActivityManagerService.broadcastIntentWithFeature(ActivityManagerService.java:17069)
+	at android.app.ContextImpl.sendBroadcastAsUser(ContextImpl.java:1479)
+	at com.android.server.inputmethod.InputMethodMenuController.lambda$sendSALogging$1(InputMethodMenuController.java:936)
+	at com.android.server.inputmethod.InputMethodMenuController.$r8$lambda$W7u2IcDwusWARGt5NW8-lOGWwDE(Unknown Source:0)
+	at com.android.server.inputmethod.InputMethodMenuController$$ExternalSyntheticLambda1.run(Unknown Source:10)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.Throwable
+	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:16073)
+	... 8 more
+

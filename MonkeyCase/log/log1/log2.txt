@@ -1,0 +1,225 @@
+  bash arg: -p
+  bash arg: com.tenorshare.recovery
+  bash arg: --pct-motion
+  bash arg: 40
+  bash arg: --pct-anyevent
+  bash arg: 60
+  bash arg: -v
+  bash arg: -v
+  bash arg: -v
+  bash arg: --throttle
+  bash arg: 100
+  bash arg: 50
+:Monkey: seed=1697158713725 count=50
+:AllowPackage: com.tenorshare.recovery
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   - NOT USING main activity com.samsung.android.gallery.app.activity.GalleryActivity (from package com.sec.android.gallery3d)
+//   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+//   - NOT USING main activity com.android.vending.AssetBrowserActivity (from package com.android.vending)
+//   - NOT USING main activity com.samsung.android.contacts.contactslist.PeopleActivity (from package com.samsung.android.app.contacts)
+//   - NOT USING main activity com.samsung.android.dialer.DialtactsActivity (from package com.samsung.android.dialer)
+//   - NOT USING main activity com.android.mms.ui.ConversationComposer (from package com.samsung.android.messaging)
+//   - NOT USING main activity com.sec.android.app.camera.Camera (from package com.sec.android.app.camera)
+//   - NOT USING main activity com.sec.android.app.sbrowser.SBrowserMainActivity (from package com.sec.android.app.sbrowser)
+//   - NOT USING main activity com.google.android.apps.chrome.Main (from package com.android.chrome)
+//   - NOT USING main activity com.banqu.music.WelcomeActivity (from package com.banqu.samsung.music)
+//   - NOT USING main activity com.github.kr328.clash.MainActivity (from package com.github.kr328.clash)
+//   - NOT USING main activity com.google.android.maps.MapsActivity (from package com.google.android.apps.maps)
+//   - NOT USING main activity com.google.android.gm.ConversationListActivityGmail (from package com.google.android.gm)
+//   - NOT USING main activity com.google.android.youtube.app.honeycomb.Shell$HomeActivity (from package com.google.android.youtube)
+//   - NOT USING main activity com.icoolme.android.weather.activity.SmartWeatherActivity (from package com.icoolme.android.weather)
+//   - NOT USING main activity com.microsoft.ruby.Main (from package com.microsoft.emmx)
+//   - NOT USING main activity com.microsoft.office.outlook.MainActivity (from package com.microsoft.office.outlook)
+//   - NOT USING main activity com.samsung.android.app.calendar.activity.MainActivity (from package com.samsung.android.calendar)
+//   - NOT USING main activity com.samsung.android.oneconnect.ui.SCMainActivity (from package com.samsung.android.oneconnect)
+//   - NOT USING main activity com.samsung.android.app.shealth.home.HomeMainActivity (from package com.sec.android.app.shealth)
+//   - NOT USING main activity com.yxcorp.gifshow.HomeActivity (from package com.smile.gifmaker)
+//   - NOT USING main activity com.samsung.android.sm.ui.ShortcutIconLauncher (from package com.samsung.android.sm_cn)
+//   - NOT USING main activity com.sec.android.app.myfiles.ui.ForMyFilesAppIconInHomeScreenActivity (from package com.sec.android.app.myfiles)
+//   - NOT USING main activity com.sec.android.app.samsungapps.SamsungAppsMainActivity (from package com.sec.android.app.samsungapps)
+//   - NOT USING main activity com.mqunar.splash.SplashActivity (from package com.Qunar)
+//   - NOT USING main activity com.UCMobile.main.UCMobile (from package com.UCMobile)
+//   - NOT USING main activity com.ace.fileexplorer.feature.activity.AceFirstActivity (from package com.ace.ex.file.manager)
+//   - NOT USING main activity com.aefyr.sai.ui.activities.MainActivity (from package com.aefyr.sai)
+//   - NOT USING main activity com.androidz.wanandroid.ui.core.StartPageActivity (from package com.androidz.wanandroid)
+//   - NOT USING main activity com.autonavi.map.activity.SplashActivity (from package com.autonavi.minimap)
+//   - NOT USING main activity com.baidu.netdisk.ui.DefaultMainActivity (from package com.baidu.netdisk.samsung)
+//   - NOT USING main activity com.baidu.searchbox.SplashActivity (from package com.baidu.searchbox)
+//   - NOT USING main activity com.baloota.dumpster.DumpsterMain (from package com.baloota.dumpster)
+//   - NOT USING main activity com.example.chatgpt.ui.component.splash.SplashActivity (from package com.chatgpt.aichat.gpt3.aichatbot)
+//   - NOT USING main activity com.defianttech.diskdiggerpro.DiskDiggerActivity (from package com.defianttech.diskdigger)
+//   - NOT USING main activity com.dianping.v1.NovaMainActivity (from package com.dianping.v1)
+//   - NOT USING main activity com.estrongs.android.pop.app.openscreenad.NewSplashActivity (from package com.estrongs.android.pop)
+//   - NOT USING main activity com.example.android.unscramble.MainActivity (from package com.example.android.unscramble)
+//   - NOT USING main activity com.example.cupcake.MainActivity (from package com.example.cupcake)
+//   - NOT USING main activity com.example.wordsapp.MainActivity (from package com.example.wordsapp)
+//   - NOT USING main activity com.facebook.katana.LoginActivity (from package com.facebook.katana)
+//   - NOT USING main activity com.facebook.orca.auth.StartScreenActivity (from package com.facebook.orca)
+//   - NOT USING main activity com.gbwhatsapp.0 (from package com.gbwhatsapp)
+//   - NOT USING main activity com.google.android.apps.authenticator.AuthenticatorActivity (from package com.google.android.apps.authenticator2)
+//   - NOT USING main activity com.google.android.apps.subscriptions.red.LauncherActivity (from package com.google.android.apps.subscriptions.red)
+//   - NOT USING main activity com.google.android.gms.example.bannerexample.MainActivity (from package com.google.android.gms.example.bannerexample)
+//   - NOT USING main activity com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity (from package com.google.android.inputmethod.latin)
+//   - NOT USING main activity com.hotshot.dialogloading.MainActivity (from package com.hotshot.dialogloading)
+//   - NOT USING main activity com.hotshot.testbutton.MainActivity (from package com.hotshot.testbutton)
+//   - NOT USING main activity com.imobie.anytrans.view.activity.LaunchActivity (from package com.imobie.anytrans)
+//   - NOT USING main activity com.imyfone.assistantex.MainActivity (from package com.imyfone.assistantex)
+//   - NOT USING main activity com.instagram.android.activity.MainTabActivity (from package com.instagram.android)
+//   - NOT USING main activity com.instagram.barcelona.mainactivity.BarcelonaActivity (from package com.instagram.barcelona)
+//   - NOT USING main activity com.jd.smart.activity.LoadingActivity (from package com.jd.iots)
+//   - NOT USING main activity com.jingdong.app.mall.main.MainActivity (from package com.jingdong.app.mall)
+//   - NOT USING main activity com.lexa.fakegps.ui.Main (from package com.lexa.fakegps)
+//   - NOT USING main activity com.luckydog.datarecovery.MainActivity (from package com.luckydog.datarecovery)
+//   - NOT USING main activity com.luckydogsoft.itubego.BottomNavigationViewActivity (from package com.luckydogsoft.itubego)
+//   - NOT USING main activity com.microsoft.office.officesuite.OfficeSuiteActivity (from package com.microsoft.office.officehub)
+//   - NOT USING main activity com.microsoft.skype.teams.Launcher (from package com.microsoft.teams)
+//   - NOT USING main activity com.mobile.filefinder.ui.TabMainActivity (from package com.mobispeedy.recovery)
+//   - NOT USING main activity com.netease.nr.biz.ad.newAd.AdActivity (from package com.netease.newsreader.activity)
+//   - NOT USING main activity com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity (from package com.nianticlabs.pokemongo)
+//   - NOT USING main activity com.qq.qcloud.activity.WeiyunRootActivity (from package com.qq.qcloud)
+//   - NOT USING main activity com.recovereverything.app.AppStartupActivity (from package com.recovereverything.app)
+//   - NOT USING main activity com.edili.filemanager.module.activity.FirstActivity (from package com.rs.explorer.filemanager)
+//   - NOT USING main activity com.samsung.android.app.reminder.ui.LaunchMainActivity (from package com.samsung.android.app.reminder)
+//   - NOT USING main activity com.samsung.android.app.searchwidget.ui.FeedsActivity (from package com.samsung.android.app.searchwidget)
+//   - NOT USING main activity com.samsung.android.app.sreminder.SReminderActivity (from package com.samsung.android.app.sreminder)
+//   - NOT USING main activity com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity (from package com.samsung.android.app.watchmanager)
+//   - NOT USING main activity com.samsung.android.galaxy.MainActivity (from package com.samsung.android.galaxy)
+//   - NOT USING main activity com.samsung.android.galaxycontinuity.SplashActivity (from package com.samsung.android.galaxycontinuity)
+//   - NOT USING main activity com.samsung.android.game.gamehome.activity.StartActivityCN (from package com.samsung.android.game.gamehome)
+//   - NOT USING main activity com.samsung.android.spay.ui.SpayMainActivity (from package com.samsung.android.spay)
+//   - NOT USING main activity com.samsung.android.themestore.activity.Launcher (from package com.samsung.android.themestore)
+//   - NOT USING main activity com.samsung.android.voc.app.LauncherActivity (from package com.samsung.android.voc)
+//   - NOT USING main activity com.scopely.unity.ScopelyUnityActivity (from package com.scopely.monopolygo)
+//   - NOT USING main activity com.sec.android.app.clockpackage.ClockPackage (from package com.sec.android.app.clockpackage)
+//   - NOT USING main activity com.sec.android.app.popupcalculator.Calculator (from package com.sec.android.app.popupcalculator)
+//   - NOT USING main activity com.sec.android.app.voicenote.main.VNMainActivity (from package com.sec.android.app.voicenote)
+//   - NOT USING main activity com.sina.weibo.SplashActivity (from package com.sina.weibo)
+//   - NOT USING main activity com.ss.android.article.news.activity.MainActivity (from package com.ss.android.article.news)
+//   - NOT USING main activity com.ss.android.ugc.aweme.splash.SplashActivity (from package com.ss.android.ugc.aweme)
+//   - NOT USING main activity com.taobao.tao.welcome.Welcome (from package com.taobao.taobao)
+//   - NOT USING main activity com.tencent.mm.ui.LauncherUI (from package com.tencent.mm)
+//   - NOT USING main activity com.tencent.mobileqq.activity.SplashActivity (from package com.tencent.mobileqq)
+//   - NOT USING main activity com.tencent.qqlive.ona.activity.SplashHomeActivity (from package com.tencent.qqlive)
+//   - NOT USING main activity com.tenorshare.daemon.transfer.MainActivity (from package com.tenorshare.daemon.transfer)
+//   - NOT USING main activity com.tenorshare.ianygo.ui.WelcomeActivity (from package com.tenorshare.ianygo)
+//   - NOT USING main activity com.tenorshare.ianygo.fakegps.ui.activity.StartActivity (from package com.tenorshare.ianygo.fakegps)
+//   - NOT USING main activity com.tenorshare.nxz.WelcomeActivity (from package com.tenorshare.nxz)
+//   - NOT USING main activity com.tenorshare.phonemirror.app.SplashActivity (from package com.tenorshare.phonemirror)
+//   + Using main activity com.tenorshare.recovery.WelcomeActivity (from package com.tenorshare.recovery)
+//   - NOT USING main activity com.tenorshare.tool.MainActivity (from package com.tenorshare.tool)
+//   - NOT USING main activity com.tenorshare.transfer.WelcomeActivity (from package com.tenorshare.transfer)
+//   - NOT USING main activity com.tianyancha.skyeye.MainActivity (from package com.tianyancha.skyeye)
+//   - NOT USING main activity com.twitter.android.StartActivity (from package com.twitter.android)
+//   - NOT USING main activity com.ultfone.recovery.WelcomeActivity (from package com.ultfone.recovery)
+//   - NOT USING main activity com.v2ray.ang.ui.MainActivity (from package com.v2ray.ang)
+//   - NOT USING main activity com.whatsapp.Main (from package com.whatsapp)
+//   - NOT USING main activity com.whatsapp.Main (from package com.whatsapp.w4b)
+//   - NOT USING main activity com.wondershare.drfoneapp.AppStartupActivity (from package com.wondershare.drfoneapp)
+//   - NOT USING main activity com.wuba.home.activity.HomeActivity (from package com.wuba)
+//   - NOT USING main activity com.ximalaya.ting.android.host.activity.MainActivity (from package com.ximalaya.ting.android)
+//   - NOT USING main activity com.xunmeng.pinduoduo.ui.activity.MainFrameActivity (from package com.xunmeng.pinduoduo)
+//   - NOT USING main activity com.zhihu.android.app.ui.activity.LauncherActivity (from package com.zhihu.android)
+//   - NOT USING main activity ctrip.business.splash.CtripSplashActivity (from package ctrip.android.view)
+//   - NOT USING main activity data.hotshot.mvvmlearn.view.AnimalActivity (from package data.hotshot.mvvmlearn)
+//   - NOT USING main activity data.hotshot.mvvmtest.view.AnimalActivity (from package data.hotshot.mvvmtest)
+//   - NOT USING main activity data.hotshot.mymvvm.view.AnimalActivity (from package data.hotshot.mymvvm)
+//   - NOT USING main activity com.thinkyeah.recyclebin.ui.activity.LandingActivity (from package dcmobile.thinkyeah.recyclebin)
+//   - NOT USING main activity filemanger.manager.iostudio.manager.SplashActivity (from package files.fileexplorer.filemanager)
+//   - NOT USING main activity io.appium.settings.Settings (from package io.appium.settings)
+//   - NOT USING main activity jp.naver.line.android.activity.SplashActivity (from package jp.naver.line.android)
+//   - NOT USING main activity location.changer.fake.gps.spoof.emulator.SplashActivity (from package location.changer.fake.gps.spoof.emulator)
+//   - NOT USING main activity org.telegram.messenger.DefaultIcon (from package org.telegram.messenger)
+//   - NOT USING main activity com.recoverynumber.restoreee.activities.SplashActivity (from package recoverynumber.restore)
+//   - NOT USING main activity tv.danmaku.bili.MainActivityV2 (from package tv.danmaku.bili)
+// Selecting main activities from category android.intent.category.MONKEY
+//   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.launcher3.Launcher (from package com.sec.android.app.desktoplauncher)
+//   - NOT USING main activity com.android.launcher3.uioverrides.QuickstepLauncher (from package com.sec.android.app.launcher)
+//   - NOT USING main activity com.sec.android.app.launcher.activities.LauncherActivity (from package com.sec.android.app.launcher)
+//   - NOT USING main activity com.samsung.android.video.player.activity.MonkeyTestActivity (from package com.samsung.android.video)
+// Seeded: 1697158713725
+// Event percentages:
+//   0: 0.0%
+//   1: 40.0%
+//   2: 0.0%
+//   3: 0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 0.0%
+//   7: 0.0%
+//   8: 0.0%
+//   9: 0.0%
+//   10: 0.0%
+//   11: 60.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.tenorshare.recovery/.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tenorshare.recovery/.WelcomeActivity } in package com.tenorshare.recovery
+Sleeping for 100 milliseconds
+    // activityResuming(com.tenorshare.recovery)
+:Sending Key (ACTION_DOWN): 194    // KEYCODE_BUTTON_7
+:Sending Key (ACTION_UP): 194    // KEYCODE_BUTTON_7
+Sleeping for 100 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(114.0,255.0)
+:Sending Touch (ACTION_MOVE): 0:(96.71344,261.20377)
+:Sending Touch (ACTION_MOVE): 0:(94.172806,261.329)
+:Sending Touch (ACTION_MOVE): 0:(76.10388,262.55334)
+:Sending Touch (ACTION_MOVE): 0:(52.400837,268.21628)
+:Sending Touch (ACTION_MOVE): 0:(38.774864,270.79196)
+:Sending Touch (ACTION_MOVE): 0:(36.726467,271.69644)
+:Sending Touch (ACTION_UP): 0:(30.288725,273.6262)
+Sleeping for 100 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(982.0,1216.0)
+:Sending Touch (ACTION_MOVE): 0:(972.6583,1225.7523)
+:Sending Touch (ACTION_UP): 0:(963.4649,1227.7213)
+Sleeping for 100 milliseconds
+    // Allowing start of Intent { cmp=com.tenorshare.recovery/.photo.ui.PhotoPreviewActivity } in package com.tenorshare.recovery
+:Sending Touch (ACTION_DOWN): 0:(1000.0,363.0)
+:Sending Touch (ACTION_MOVE): 0:(1005.88275,356.85388)
+:Sending Touch (ACTION_MOVE): 0:(1006.4181,343.50024)
+:Sending Touch (ACTION_MOVE): 0:(1008.103,341.47443)
+:Sending Touch (ACTION_MOVE): 0:(1014.5832,335.77673)
+:Sending Touch (ACTION_MOVE): 0:(1021.2,324.22766)
+:Sending Touch (ACTION_MOVE): 0:(1026.1335,317.1943)
+:Sending Touch (ACTION_MOVE): 0:(1027.372,308.77136)
+:Sending Touch (ACTION_MOVE): 0:(1031.6676,305.04773)
+:Sending Touch (ACTION_UP): 0:(1038.913,294.45297)
+Sleeping for 100 milliseconds
+:Sending Key (ACTION_DOWN): 294    // KEYCODE_LANG
+:Sending Key (ACTION_UP): 294    // KEYCODE_LANG
+Sleeping for 100 milliseconds
+:Sending Key (ACTION_DOWN): 153    // KEYCODE_NUMPAD_9
+:Sending Key (ACTION_UP): 153    // KEYCODE_NUMPAD_9
+Sleeping for 100 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(142.0,25.0)
+:Sending Touch (ACTION_MOVE): 0:(144.73305,34.566124)
+:Sending Touch (ACTION_MOVE): 0:(146.48273,40.80637)
+:Sending Touch (ACTION_MOVE): 0:(151.3952,43.630108)
+:Sending Touch (ACTION_MOVE): 0:(158.1763,52.421753)
+:Sending Touch (ACTION_MOVE): 0:(160.74799,54.774185)
+:Sending Touch (ACTION_MOVE): 0:(168.54562,56.299488)
+:Sending Touch (ACTION_MOVE): 0:(171.04668,58.94041)
+:Sending Touch (ACTION_MOVE): 0:(176.21431,62.809063)
+:Sending Touch (ACTION_MOVE): 0:(183.11565,63.10261)
+:Sending Touch (ACTION_UP): 0:(191.5561,66.1165)
+Sleeping for 100 milliseconds
+:Sending Key (ACTION_DOWN): 165    // KEYCODE_INFO
+:Sending Key (ACTION_UP): 165    // KEYCODE_INFO
+Sleeping for 100 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(747.0,1804.0)
+:Sending Touch (ACTION_MOVE): 0:(750.641,1802.735)
+:Sending Touch (ACTION_UP): 0:(762.0441,1802.356)
+Sleeping for 100 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(265.0,2025.0)
+:Sending Touch (ACTION_UP): 0:(267.45047,2017.9856)
+Sleeping for 100 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(881.0,1437.0)
+:Sending Touch (ACTION_MOVE): 0:(878.4158,1438.2567)
+:Sending Touch (ACTION_MOVE): 0:(877.0281,1443.2919)
+:Sending Touch (ACTION_MOVE): 0:(875.564,1446.053)
+Events injected: 50
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=1263ms (0ms mobile, 0ms wifi, 1263ms not connected)
+// Monkey finished
