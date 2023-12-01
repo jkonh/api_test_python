@@ -1,0 +1,16 @@
+photo_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/photo"
+video_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/video"
+audio_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/audio"
+doc_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/document"
+whatsapp_photo_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/WhatsApp/Photos"
+whatsapp_video_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/WhatsApp/Videos"
+whatsapp_audio_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/WhatsApp/Audios"
+whatsapp_doc_path:
+  cleanFile: adb shell "rm -r sdcard/DCIM/UltData/WhatsApp/Documents"

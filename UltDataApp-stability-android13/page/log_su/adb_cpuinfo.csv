@@ -1,0 +1,25 @@
+[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 868 total,   5 running, 863 sleeping,   0 stopped,   0 zombie
+  Mem:  7402588K total,  7326288K used,    76300K free,      972K buffers
+ Swap:  4194300K total,  2953524K used,  1240776K free,  3391776K cached
+800%cpu 171%user  18%nice 443%sys  79%idle  54%iow  25%irq  11%sirq   0%host
+[7mARGS                       [%CPU                                                [0m
+system_server               82.1
+com.tencent.mm              57.1
+[1mcom.samsung.android.honeyb+ 57.1[m
+[1mcom.samsung.android.app.sh+ 46.4[m
+com.tencent.mm:push         35.7
+com.sec.android.app.launch+ 35.7
+com.instagram.android       28.5
+[1mtop -o ARGS -o %CPU -n 1    17.8[m
+com.facebook.orca           17.8
+com.tenorshare.transfer     17.8
+com.whatsapp                14.2
+[1m[kswapd0]                   10.7[m
+[kworker/u17:2-f2fs_post_r+  7.1
+[kworker/u16:0-five_hook_w+  7.1
+com.android.settings.intel+  7.1
+[kworker/u17:3-f2fs_post_r+  7.1
+surfaceflinger               7.1
+zygote64                     7.1
+[kworker/u17:0-f2fs_post_r+  3.5
+[kworker/5:1-events]         3.5[?25h[0m[999H[K[?25h[?25h[0m[999H[K
