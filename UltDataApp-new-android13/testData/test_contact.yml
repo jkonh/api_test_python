@@ -1,0 +1,20 @@
+test_Contact_001:
+  casename: scan_contact_success
+  test_level: 1
+  test_step:
+    - scan_contact_success:
+        test_assert:
+          type: assertExist
+          sleep: 5
+          element:
+            contact_page: scanComplete_btn
+test_Contact_002:
+  casename: recover_contact_success
+  test_level: 1
+  test_step:
+    - recover_contact_success:
+        test_assert:
+          type: assertExist
+          sleep: 5
+          element:
+            contact_page: recover_success

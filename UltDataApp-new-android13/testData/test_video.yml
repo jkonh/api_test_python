@@ -1,0 +1,60 @@
+test_VideoScan_001:
+  casename: scan_video
+  test_level: 1
+  test_step:
+    - scan_video:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            scan_page: scan_finish_btn
+test_VideoRecovery_001:
+  casename: recovery_video_album_source
+  test_level: 1
+  test_step:
+    - recovery_video_album:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/video && ls | wc -l"
+test_VideoRecovery_002:
+  casename: recovery_video_twitter_source
+  test_level: 1
+  test_step:
+    - recovery_video_twitter:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/video && ls | wc -l"
+test_VideoRecovery_003:
+  casename: recovery_video_facebook_source
+  test_level: 1
+  test_step:
+    - recovery_video_facebook:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/video && ls | wc -l"
+test_VideoRecovery_004:
+  casename: recovery_video_qq_source
+  test_level: 1
+  test_step:
+    - recovery_video_qq:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/video && ls | wc -l"
+test_VideoRecovery_005:
+  casename: recovery_video_viber_source
+  test_level: 1
+  test_step:
+    - recovery_video_viber:
+        test_assert:
+          type: assertCount
+          sleep: 2
+          path_name:
+            adbCommand: adb shell "cd sdcard/DCIM/UltData/video && ls | wc -l"

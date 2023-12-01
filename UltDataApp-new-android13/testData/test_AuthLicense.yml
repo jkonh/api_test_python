@@ -1,0 +1,21 @@
+#测试用例文件，可以利用测试工具，通过excel文件自动生成；可按照模块写多个测试用例文件
+test_AuthLicense_001:
+  casename: 取消授权license
+  test_level: 1
+  test_step:
+    - disagreeLicense:
+        test_assert:
+          type: assertActivityExist
+          sleep: 2
+          element:
+            main_page: photo_btn
+test_AuthLicense_002:
+  casename: 同意授权license
+  test_level: 1
+  test_step:
+    - agreeLicense:
+        test_assert:
+          type: assertExist
+          sleep: 2
+          element:
+            main_page: video_btn
